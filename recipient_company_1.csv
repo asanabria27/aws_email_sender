@@ -1,2 +1,5 @@
 from_email,to_email,subject,template_url
-Ariel Sanabria <arielsanabria27@gmail.com>,ariel.sanabria@fiuni.edu.py,Nuevas Ofertas!!,https://raw.githubusercontent.com/asanabria27/aws_email_sender/master/company_1.html
+Ariel Sanabria <arielsanabria27@gmail.com>,ariel.sanabria@fiuni.edu.py,Testing AWS-Sendgrid Email Sender,https://raw.githubusercontent.com/asanabria27/aws_email_sender/master/company_1.html
+Ariel Sanabria <arielsanabria27@gmail.com>,joaquin95gaona@gmail.com,Testing AWS-Sendgrid Email Sender,https://raw.githubusercontent.com/asanabria27/aws_email_sender/master/company_1.html
+Ariel Sanabria <arielsanabria27@gmail.com>,maedgoro@gmail.com,Testing AWS-Sendgrid Email Sender,https://raw.githubusercontent.com/asanabria27/aws_email_sender/master/company_1.html
+Ariel Sanabria <arielsanabria27@gmail.com>,carreras69miguel@gmail.com,Testing AWS-Sendgrid Email Sender,https://raw.githubusercontent.com/asanabria27/aws_email_sender/master/company_1.html
